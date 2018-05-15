@@ -1,0 +1,35 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\Muse~\Documents~\Eclipse\EcilpsePython\.metadata\.plugins\org.eclipse.core.resources\.projects\Testing\com.python.pydev.analysis\v2_indexcache
+Test.MainGame|1449979957981647000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Testing\src\Test\MainGame.py
+Test.RockPaperScissors|1449979957986647000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Testing\src\Test\RockPaperScissors.py
+Test.__init__|1449979170743311000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Testing\src\Test\__init__.py
+Test.MidTesting|1449980020432988000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Testing\src\Test\MidTesting.py
+Test.Hangman|1449979957986647000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Testing\src\Test\Hangman.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+2=Test.MainGame
+4=Test.RockPaperScissors
+5=MyClass
+1=Test.MidTesting
+3=Test.Hangman
+-- END DICTIONARY
+-- START TREE 1
+11
+che|1|check!10@
+end|2|end!18@end!10@
+fir|1|firsttry!10@
+gam|1|game!10@
+hig|1|highlower!10@
+max|1|maxmin!10@
+myc|2|MyClass!25@MyClass!33@
+pla|2|playagain!10@playagain!18@
+rep|1|repeat!10@
+sta|2|start!18@start!26@
+try|1|trys!10@
+-- END TREE
+-- START TREE 2
+1
+__i|2|__init__!5&26@__init__!5&34@
+-- END TREE

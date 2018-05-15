@@ -1,0 +1,86 @@
+
+
+import java.util.Scanner;
+	public class LinearEquation {
+	    private  double a;
+	    private  double b;
+	    private  double c;
+	    private  double d;
+	    private  double e;
+	    private  double f;
+	    
+
+	    LinearEquation(double a2, double b2, double c2, double d2, double e2, double f2){
+			a = a2;
+			b = b2;
+			c = c2;
+			d = d2;
+			e = e2;
+			f = f2;
+	    }
+	     
+	    public double getA() {
+	        return a;
+	    }
+
+	    public double getB() {
+	        return b;
+	    }
+
+	    public double getC() {
+	        return c;
+	    }
+	    
+	    public double getD() {
+	        return d;
+	    }
+
+	    public double getE() {
+	    	return e;
+	    }
+
+	    public double getF() {
+	        return f;
+	    }
+
+	   public  boolean isSolvable(){
+			if(((a*d) - (b*c)) == 0)
+				return false;
+			else
+				return true;
+		}
+
+	    public  double getX() {
+	        double x = ((e * d) - (b * f)) / ((a * d) - (b * c));
+	        return x;
+	    }
+
+	    public  double getY() {
+	       double y = ((a * f) - (e * c)) / ((a * d) - (b * c));
+	        return y;
+	    }
+	}
+
+
+ class Testing{
+  public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    System.out.print("Enter a, b, c, d, e, f: ");
+    double a = input.nextDouble();
+    double b = input.nextDouble();
+    double c = input.nextDouble();
+    double d = input.nextDouble();
+    double e = input.nextDouble();
+    double f = input.nextDouble();
+
+    LinearEquation equation = new LinearEquation(a, b, c, d, e, f);
+
+    if (equation.isSolvable()) {
+      System.out.println("x is " +
+        equation.getX() + " and y is " + equation.getY());
+    }
+    else {
+      System.out.println("The equation has no solution");
+    }
+  } 
+} 

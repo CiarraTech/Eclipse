@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1449979795252_1" label="Python" name="Python">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Sample1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Testing" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1465251095435_7" label="First" name="First">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Sample1" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1449470834154_0" label="Window Working Set" name="Aggregate for window 1449470834154"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1465251122062_8" label="Multiple Working Sets" name="Aggregate:First:Python:">
+<workingSet IMemento.internal.id="First"/>
+<workingSet IMemento.internal.id="Python"/>
+</workingSet>
+<mruList name="Python"/>
+<mruList name="First"/>
+</workingSetManager>

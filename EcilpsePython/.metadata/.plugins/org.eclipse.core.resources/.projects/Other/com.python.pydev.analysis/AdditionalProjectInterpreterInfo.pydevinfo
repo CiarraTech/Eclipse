@@ -1,0 +1,42 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\Muse~\Documents~\Eclipse\EcilpsePython\.metadata\.plugins\org.eclipse.core.resources\.projects\Other\com.python.pydev.analysis\v2_indexcache
+Mine.GuessingGame|1449475264538308000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Other\src\Mine\GuessingGame.py
+Default.tempconvert|1449475048690962000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Other\src\Default\tempconvert.py
+Default.__init__|1449474996568981000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Other\src\Default\__init__.py
+Default.guessing_game_template|1449475017765194000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Other\src\Default\guessing_game_template.py
+Mine.__init__|1449475082939921000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Other\src\Mine\__init__.py
+Mine.shrug|1449475121720139000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Other\src\Mine\shrug.py
+Mine.MidTesting|1449477989749181000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Other\src\Mine\MidTesting.py
+Default.SpeedingInClass|1449475020559353000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Other\src\Default\SpeedingInClass.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+3=Mine.GuessingGame
+6=Default.tempconvert
+1=Mine.shrug
+4=Default.guessing_game_template
+2=Mine.MidTesting
+5=Default.SpeedingInClass
+-- END DICTIONARY
+-- START TREE 1
+15
+a|1|a!11@
+che|1|check!18@
+end|3|end!26@end!34@end!18@
+fin|2|FineMessage!43@FineAmount!43@
+fir|1|firsttry!18@
+gam|2|game!18@game!26@
+hig|1|highlower!18@
+max|1|maxmin!18@
+pla|3|playagain!26@playagain!18@playagain!34@
+rat|1|RateOfSpeed!43@
+rep|1|repeat!18@
+spe|1|SpeedLimit!43@
+sta|2|startgame!26@startgame!34@
+tem|2|TempC!51@TempF!51@
+try|1|trys!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

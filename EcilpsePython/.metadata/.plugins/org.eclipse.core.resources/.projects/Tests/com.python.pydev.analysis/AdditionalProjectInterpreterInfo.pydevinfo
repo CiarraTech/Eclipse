@@ -1,0 +1,20 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\Muse~\Documents~\Eclipse\EcilpsePython\.metadata\.plugins\org.eclipse.core.resources\.projects\Tests\com.python.pydev.analysis\v2_indexcache
+Test.__init__|1449473902048378000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Tests\src\Test\__init__.py
+Test.MidTerm|1449474860782215000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Tests\src\Test\MidTerm.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=Test.MidTerm
+-- END DICTIONARY
+-- START TREE 1
+4
+end|1|end!10@
+gam|1|game!10@
+pla|1|playagain!10@
+sta|1|startgame!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

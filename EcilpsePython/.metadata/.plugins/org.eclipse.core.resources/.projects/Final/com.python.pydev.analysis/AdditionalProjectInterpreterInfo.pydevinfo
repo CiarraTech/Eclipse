@@ -1,0 +1,26 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\Muse~\Documents~\Eclipse\EcilpsePython\.metadata\.plugins\org.eclipse.core.resources\.projects\Final\com.python.pydev.analysis\v2_indexcache
+Game.Hangman|1449478896608051000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Final\src\Game\Hangman.py
+Game.__init__|1449473288404280000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Final\src\Game\__init__.py
+Game.MainGame|1449529318255079000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Final\src\Game\MainGame.py
+Game.RockPaperScissors|1449478896629052000|E:\Muse~\Documents~\Eclipse\EcilpsePython\Final\src\Game\RockPaperScissors.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=Game.Hangman
+4=MyClass
+1=Game.MainGame
+3=Game.RockPaperScissors
+-- END DICTIONARY
+-- START TREE 1
+4
+end|1|end!10@
+myc|2|MyClass!17@MyClass!25@
+pla|1|playagain!10@
+sta|1|start!10@
+-- END TREE
+-- START TREE 2
+1
+__i|2|__init__!4&18@__init__!4&26@
+-- END TREE

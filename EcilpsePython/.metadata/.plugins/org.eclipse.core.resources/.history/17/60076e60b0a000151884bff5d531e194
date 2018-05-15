@@ -1,0 +1,23 @@
+'''
+Created on Dec 7, 2015
+
+@author: Muse
+'''
+print '\nYou picked Hangman!'
+
+def start():
+    print 'Please, enter your 4 letter word.'
+    print 'Take your 1st guess'
+
+
+class MyClass(object):
+    '''
+    classdocs
+    '''
+
+
+    def __init__(self, params):
+        '''
+        Constructor
+        '''
+start()

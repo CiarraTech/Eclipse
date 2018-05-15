@@ -1,0 +1,5 @@
+pip inst sortedcontainers
+from sortedcontainers import ali
+
+alpha = ali('a','b','c','a')
+if a in alpha

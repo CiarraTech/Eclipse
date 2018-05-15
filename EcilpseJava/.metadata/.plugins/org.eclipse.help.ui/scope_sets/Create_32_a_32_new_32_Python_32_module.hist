@@ -1,0 +1,4 @@
+#Wed Dec 02 21:59:58 EST 2015
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=Create a new Python module

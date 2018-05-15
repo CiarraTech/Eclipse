@@ -1,0 +1,11 @@
+'''
+Created on Dec 7, 2015
+
+@author: Muse
+'''
+# #Using Java or Python write a program that lets the user choose between 2 programs and play
+#    
+# #(1) a program that plays Rock, Paper, Scissors.
+# #(2)a program that allows 2 players to play hangman. The first one enters the word and the 2nd person guesses
+
+print 'Would you like to play Hangman or Rock, Paper, Scissors?'
